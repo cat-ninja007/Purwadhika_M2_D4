@@ -3,7 +3,6 @@ const Navigation = () => {
     return (
         <>
             <div className="navigation flex justify-between pt-[26px] pb-[26px] pl-[80px] pr-[80px] absolute left-0 right-0">
-            {/* <div className="navigation flex justify-between pb-[26px] pl-[80px] pr-[80px]"> */}
                 <div className="header-left">
                     <a className="text-black" href="/">@Ayush Barnwal</a>
                 </div>

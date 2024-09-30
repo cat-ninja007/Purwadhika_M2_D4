@@ -11,7 +11,6 @@ const HeadlineLeft = (props: IExtLink) => {
     return (
         <>
             <div className="w-[367px]">
-            {/* <div className="w-full"> */}
                 <h3>{headline}</h3>
             </div>
         </>
